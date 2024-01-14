@@ -6,4 +6,4 @@ https://www.youtube.com/playlist?list=PL6i9vEYOx2Bu1L20sHtb3VREQKG4Q9tJf
 https://www.youtube.com/playlist?list=PL6i9vEYOx2Bv5AabzBLteR8PDmuT5TUQZ  
 https://github.com/cychiang-ntpu/ntpu-ce-mmsp-2023/tree/master/Chapter-5
 
-![image](https://github.com/Jeremy411086013/JPEG-/blob/main/QResKimberly.bmp)https://github.com/Jeremy411086013/JPEG-/blob/main/QResKimberly.bmp)
+![image](https://github.com/Jeremy411086013/JPEG-/blob/main/output.bmp)https://github.com/Jeremy411086013/JPEG-/blob/main/output.bmp)
